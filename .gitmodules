@@ -1,0 +1,3 @@
+[submodule "ibugger"]
+	path = ibugger
+	url = https://github.com/jeanthom/ibugger
